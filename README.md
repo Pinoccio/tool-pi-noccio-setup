@@ -1,5 +1,5 @@
 pi-noccio-setup
-=============================
+===============
 
 setup a raspberrypi-noccio bridge
 
@@ -9,7 +9,9 @@ to use without node
 installs node and pinoccio on the pi
 
 ```sh
-wget http://registry.npmjs.org/pi-noccio-setup/-/pi-noccio-setup-1.0.1.tgz && tar -xvf pi-noccio-setup-1.0.1.tgz && ./install-pinoccio.sh
+wget http://registry.npmjs.org/pi-noccio-setup/-/pi-noccio-setup-1.0.2.tgz \
+  && tar -xvf pi-noccio-setup-1.0.2.tgz \
+  && ./pi-noccio-setup-1.0.2/install-pinoccio.sh
 ```
 
 if you have node already

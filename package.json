@@ -1,7 +1,7 @@
 {
   "name": "pi-noccio-setup",
   "description": "setup pinoccio tools on a raspberrypi",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "repository": {
     "url": "git://github.com/pinoccio/tool-pi-noccio-setup.git"
   },
