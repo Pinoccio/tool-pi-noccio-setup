@@ -1,0 +1,21 @@
+{
+  "name": "pi-noccio-setup",
+  "description": "setup pinoccio tools on a raspberrypi",
+  "version": "0.0.0",
+  "repository": {
+    "url": "git://github.com/soldair/tool-raspberrypi-noccio-setup.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "author":"Pinoccio Team",
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "~2.3.2"
+  },
+  "bin":{
+    "pi-noccio-setup":"./install-pinoccio.sh",
+    "pi-noccio-bridge-setup":"./install-bridge-service.sh"
+  }
+}
