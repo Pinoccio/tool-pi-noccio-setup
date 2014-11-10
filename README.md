@@ -3,8 +3,8 @@ pi-noccio-setup
 
 setup a raspberrypi-noccio bridge
 
-to use without node 
--------------------
+to setup a brand new pi
+-----------------------
 
 installs node and pinoccio on the pi
 
