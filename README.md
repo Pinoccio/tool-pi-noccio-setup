@@ -15,6 +15,7 @@ wget http://registry.npmjs.org/pi-noccio-setup/-/pi-noccio-setup-1.0.2.tgz \
 ```
 
 if you have node already
+-------------------------
 
 ```sh
 npm install -g pinoccio pi-noccio-setup
