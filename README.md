@@ -3,6 +3,8 @@ pi-noccio-setup
 
 setup a raspberrypi-noccio bridge
 
+> to set up a pi without a monitor, these [headless instructions](http://www.raspberrypi.org/forums/viewtopic.php?f=91&t=74176) are super helpful
+
 to setup a brand new pi
 -----------------------
 
