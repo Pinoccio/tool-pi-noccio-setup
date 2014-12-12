@@ -5,7 +5,7 @@
 # for verbose logging change `pinoccio bridge` to `pinoccio bridge -v`
 
 
-cat  << EOF > pinoccio-bridge.sh
+cat  << EOF > ~/pinoccio-bridge.sh
 while [ 1 ]
 do
 date
